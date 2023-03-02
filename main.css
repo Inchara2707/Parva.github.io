@@ -380,7 +380,7 @@ h3{
     width:80%;
     padding-top: 100px;
     margin:100px auto;
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url('./eduford_img/eduford_img/banner2.jpg');
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url('./images/banner2.jpg');
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -426,7 +426,7 @@ h3{
 .sub-header{
     height: 50vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(./eduford_img/eduford_img/background.jpg);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(./images/background.jpg);
     background-position: center;
     background-size: cover;
     text-align: center;
